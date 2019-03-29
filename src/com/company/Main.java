@@ -7,7 +7,6 @@ public class Main {
 	String veriable2 = "мир !";
 	String veriable = veriable1 +  veriable2;
 	System.out.println(veriable);
-	System.out.println(veriable1);
 
     }
 }
